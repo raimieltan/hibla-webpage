@@ -76,6 +76,15 @@
   }
 }
 
+.title-head {
+  color: goldenrod;
+}
+
+.tagline {
+  color: wheat;
+
+}
+
 .searchbar{
   text-align: center;
   border-radius: 25px;
@@ -11330,7 +11339,7 @@ header.masthead:before {
   width: 100%;
   top: 0;
   left: 0;
-  opacity: 0.5;
+  opacity: 0.6;
 }
 header.masthead h1, header.masthead .h1 {
   font-size: 2rem;
